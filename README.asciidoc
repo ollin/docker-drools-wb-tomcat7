@@ -1,0 +1,7 @@
+= drools-wb-tomcat7
+
+container running drools workbench in tomcat7
+
+for an example how to run the container see: 
+
+https://github.com/ollin/docker-drools-wb-tomcat7-compose
